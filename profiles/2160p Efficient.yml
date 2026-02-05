@@ -82,7 +82,7 @@ custom_formats:
 - name: SD Quality Tier 2
   score: 10000
 - name: Dolby Vision
-  score: -500
+  score: -999999
 - name: AMZN
   score: 2000
 - name: ATVP
