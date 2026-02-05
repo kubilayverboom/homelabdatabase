@@ -30,7 +30,7 @@ custom_formats:
 - name: 1080p WEB-DL HEVC Tier 1
   score: 340000
 - name: HONE WEB
-  score: 340000
+  score: 340000cha
 - name: 1080p WEB-DL (h264)
   score: 280000
 - name: 720p WEB-DL
@@ -82,43 +82,43 @@ custom_formats:
 - name: SD Quality Tier 2
   score: 10000
 - name: Dolby Vision
-  score: 3000
+  score: -500
 - name: AMZN
   score: 2000
 - name: ATVP
   score: 2000
 - name: HDR10+
-  score: 2000
+  score: 3500
 - name: Amazon Enhancement
   score: 1000
 - name: DS4K
   score: 1000
 - name: HDR
-  score: 1000
+  score: 900
 - name: HDR10
   score: 1000
 - name: HLG
-  score: 1000
+  score: 600
 - name: NF
   score: 1000
 - name: PQ
-  score: 1000
+  score: 600
 - name: FLAC
   score: 800
 - name: DTS-HD HRA
-  score: 700
+  score: 250
 - name: Opus
   score: 700
 - name: Dolby Digital +
-  score: 600
+  score: 900
 - name: DTS-ES
-  score: 500
+  score: 200
 - name: Dolby Atmos
-  score: 400
+  score: 450
 - name: Dolby Digital
   score: 400
 - name: DTS
-  score: 300
+  score: 100
 - name: AAC
   score: 200
 - name: WEB-DL Tier 1
