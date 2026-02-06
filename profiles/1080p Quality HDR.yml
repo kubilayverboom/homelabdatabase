@@ -118,11 +118,11 @@ custom_formats:
 - name: Opus
   score: 0
 - name: Dolby Digital +
-  score: -1000
+  score: -1500
 - name: DTS-ES
   score: -200
 - name: Dolby Atmos
-  score: -1500
+  score: -2000
 - name: Dolby Digital
   score: 900
 - name: DTS
